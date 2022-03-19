@@ -1,0 +1,16 @@
+div-1 {
+  border-style: solid;
+  border-color: red;
+  display: block;
+}
+
+div-2 {
+  background-color: #ee6f84;
+  display: block;
+}
+
+div-3 {
+  -webkit-text-decoration: red;
+          text-decoration: red;
+}
+/*# sourceMappingURL=page4.css.map */
