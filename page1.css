@@ -1,0 +1,32 @@
+header {
+  margin-bottom: 20px;
+  font-weight: bold;
+}
+
+div-1 {
+  background: yellow;
+  font-family: 'Times New Roman', Times, serif;
+  color: red;
+  display: block;
+  margin-bottom: 20px;
+  font-weight: bold;
+}
+
+div-2 {
+  background: blue;
+  font-family: 'Times New Roman', Times, serif;
+  color: yellow;
+  display: block;
+  margin-bottom: 20px;
+  font-weight: bold;
+}
+
+div-3 {
+  background: red;
+  font-family: 'Times New Roman', Times, serif;
+  color: yellow;
+  display: block;
+  margin-bottom: 20px;
+  font-weight: bold;
+}
+/*# sourceMappingURL=page1.css.map */
